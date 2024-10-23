@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(107, 111, 116);
+    }
+
+.f-row{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
+}
+
+.lista{
+color: rgb(255, 255, 255);
+background-color: black;
+padding: 10px;
+font-size: large;
+border-radius: 2px;
+max-width: 700px;
+}
+
+.imagens{
+justify-content: space-between;
+width: 150px;
+height: 150px;
+}
+
+.h2{
+color: rgb(0, 0, 0);
+text-align: center;
+}
+
